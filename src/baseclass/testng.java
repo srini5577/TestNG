@@ -36,9 +36,14 @@ public class testng {
 	
 		System.out.println("Applaunched");
 		
+		
 
 		
 	}
+		@Test
+		public void SecondTest() {
+			System.out.println("second Test");
+		}
 	
 
 }
