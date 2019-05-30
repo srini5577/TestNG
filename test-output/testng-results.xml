@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18810" started-at="2019-05-30T12:02:13Z" finished-at="2019-05-30T12:02:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18810" started-at="2019-05-30T12:02:13Z" finished-at="2019-05-30T12:02:32Z">
+      <class name="baseclass.testng">
+        <test-method status="PASS" signature="Browserlunch()[pri:0, instance:baseclass.testng@1ef7fe8e]" name="Browserlunch" is-config="true" duration-ms="13765" started-at="2019-05-30T14:02:13Z" finished-at="2019-05-30T14:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlunch -->
+        <test-method status="PASS" signature="Weblauch()[pri:0, instance:baseclass.testng@1ef7fe8e]" name="Weblauch" duration-ms="5016" started-at="2019-05-30T14:02:27Z" finished-at="2019-05-30T14:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weblauch -->
+      </class> <!-- baseclass.testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
